@@ -76,6 +76,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [Spotify](https://open.spotify.com/): Music streaming.
+* [Strumfolio](https://strumfolio.com): Offline songbook and chord chart reader for musicians, built on the ChordPro format.
 * [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [VideoTrim.app](https://videotrim.app): Video trimmer app in the browser.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.
